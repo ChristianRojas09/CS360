@@ -1,5 +1,5 @@
 # CS360
-#Repo for SNHU CS-360 Event Tracking android application
+# Repo for SNHU CS-360 Event Tracking android application
 
 ### **Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?**
 
